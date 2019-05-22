@@ -18,11 +18,11 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Configure</DisplayName>
+            <DisplayName>配置</DisplayName>
             <ResourceId>/permission/admin/configure</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Theme</DisplayName>
+            <DisplayName>外观与主题</DisplayName>
             <ResourceId>/permission/admin/configure/theme</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>

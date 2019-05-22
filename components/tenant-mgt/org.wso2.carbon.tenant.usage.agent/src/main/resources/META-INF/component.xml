@@ -18,15 +18,15 @@
 <component xmlns="http://products.wso2.org/carbon">
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>Monitor</DisplayName>
+            <DisplayName>监控</DisplayName>
             <ResourceId>/permission/admin/monitor</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Tenant-Usage</DisplayName>
+            <DisplayName>租户使用情况</DisplayName>
             <ResourceId>/permission/admin/monitor/tenantUsage</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Tenant-Usage</DisplayName>
+            <DisplayName>租户使用情况</DisplayName>
             <ResourceId>/permission/admin/monitor/tenantUsage/customUsage</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>
